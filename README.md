@@ -12,6 +12,5 @@ To practice KNN model tuning and validation methods.
 - Math operations with numpy;
 - Visualizations with matplotlib;
 - KNN Regressor model building and Cross Validation methods using scikit-learn.
-- 
 
 
